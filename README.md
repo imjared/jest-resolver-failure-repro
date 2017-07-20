@@ -1,4 +1,4 @@
-Using Jest v19.0.2
+Using Jest v20.0.4
 
 ### Description
 
